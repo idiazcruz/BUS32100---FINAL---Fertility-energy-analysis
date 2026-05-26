@@ -2,7 +2,7 @@
 ### BUS32100 Final Project
 
 ## Overview
-End-to-end data science project analyzing global fertility trends 
+Analysis of global fertility trends 
 across 206 countries (1990–2023), integrating demographic data 
 from the World Bank Indicators API with energy consumption data 
 from Our World in Data.
@@ -39,4 +39,4 @@ independently of economic development?
 
 ## Tools
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn, sqlite3), 
-SQLite
+SQLite, Claude
