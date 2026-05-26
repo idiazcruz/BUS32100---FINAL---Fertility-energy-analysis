@@ -31,7 +31,7 @@ independently of economic development?
 | `countries_processed.csv` | World Bank fertility dataset (processed) |
 | `dfm_processed.csv` | Merged analytical dataset |
 | `energy_processed.csv` | OWID energy dataset (processed) |
-| `BUS 32100 Fertility_Energy_Presentation.pdf´ | Presentation in pdf
+| `BUS 32100 Fertility_Energy_Presentation.pdf` | Presentation in pdf
 
 ## Data sources
 - **World Bank Indicators API** — `https://api.worldbank.org/v2/`
