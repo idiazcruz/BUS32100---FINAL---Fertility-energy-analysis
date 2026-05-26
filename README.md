@@ -40,8 +40,3 @@ independently of economic development?
 ## Tools
 Python (pandas, numpy, matplotlib, seaborn, scikit-learn, sqlite3), 
 SQLite
-
-## How to run
-1. Clone the repo
-2. Open `BUS32100_Final_Fertility_Energy_IDC.ipynb` in Jupyter
-3. Run all cells — APIs are called live, or load from saved CSVs
